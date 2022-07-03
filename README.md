@@ -13,12 +13,12 @@ No momento foi feito apenas a minha apresentação sem nenhum projeto.
 
 ### Funcionalidades a desenvolver
 
-1. [] Tela principal
+1. [ ] Tela principal
     1. [x] Botão de interação
-    2. [] Responsividade
+    2. [ ] Responsividade
     3. [x] Links redes sociais    
-2. [] Skills
-3. [] Projetos
+2. [ ] Skills
+3. [ ] Projetos
 
 
 
